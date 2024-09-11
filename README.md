@@ -1,3 +1,47 @@
+*README*
+
+BEnchmark and Calibration via RAndomization of ParameTERs (BE-CRATER) for VolcFlow
+
+By: Franco Garin, Sylvain J. Charbonnier, and Valentin Gueugneau
+
+Volcanology Research Group, School of Geosciences
+University of South Florida
+Email: francoalainv@usf.edu
+ResearchGate: https://www.researchgate.net/profile/Franco-Garin
+
+Originally created: May 20th, 2020
+Last updated: September 11th, 2024
+
+Version: v1.0 (Initial release)
+This script is shared under a GNU AGPLv3 license (Please see LICENSE.txt)
+
+"BE-CRATER for VolcFlow" was formerly known as VulcaVBM (See AGU2021 Abstract)
+--------------------------------------------------------------------------
+
+Initially presented as VulcaVBM as part of a poster at AGU Fall Meeting 2021
+A Multifaceted Model Validation Approach for Pyroclastic Currents: The June 3rd, 2018 Pyroclastic Currents at Fuego Volcano (Guatemala)
+PDF and iPoster available via:
+https://www.researchgate.net/publication/361324774_A_Multifaceted_Model_Validation_Approach_for_Pyroclastic_Currents_The_June_3rd_2018_Pyroclastic_Currents_at_Fuego_Volcano_Guatemala
+Case Study: Volcan de Fuego 2018 eruption
+
+If script is used, please cite:
+ 
+Please cite: 
+
+Villegas-Garin F., Charbonnier S., Gueugneau V., Rodriguez L., Escobar-Wolf R. (2021) 
+A Multifaceted Model Validation Approach for Pyroclastic Currents: The June 3rd, 2018 
+Pyroclastic Currents at Fuego Volcano (Guatemala). In:  AGU Fall Meeting Abstracts. pp NH25A-0543
+DOI: 10.13140/RG.2.2.25706.18881/2.
+
+BE-CRATER requires a simple script written to work in conjunction with
+the VolcFlow single-fluid version only*** VolcFlow runs in MATLAB or GNU Octave
+
+The VolcFlow simulation code is distributed and written by
+Karim Kelfoun at Laboratoire Magma et Volcans, Clermont-Ferrand, France.
+
+Kelfoun K. and T.H. Druitt, 2005, Numerical modelling of the emplacement of the 7500 BP 
+Socompa rock avalanche, Chile. J. Geophys. Res., B12202, doi : 10.1029/2005JB003758, 2005.
+
 Kelfoun K., P. Samaniego, P. Palacios, D. Barba, 2009, Testing the suitability of frictional 
 behaviour for pyroclastic flow simulation by comparison with a well-constrained eruption at 
 Tungurahua volcano (Ecuador). Bulletin of Volcanology, 71(9), 1057-1075, DOI: 10.1007/s00445-009-0286-6.
