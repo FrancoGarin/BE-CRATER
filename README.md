@@ -5,6 +5,7 @@ BEnchmark and Calibration via RAndomization of ParameTERs (BE-CRATER) for VolcFl
 By: Franco Garin, Sylvain J. Charbonnier, and Valentin Gueugneau
 
 Volcanology Research Group, School of Geosciences
+
 University of South Florida
 
 Email: francoalainv@usf.edu
@@ -12,9 +13,11 @@ Email: francoalainv@usf.edu
 ResearchGate: https://www.researchgate.net/profile/Franco-Garin
 
 Originally created: May 20th, 2020
+
 Last updated: September 11th, 2024
 
 Version: v1.0 (Initial release)
+
 This script is shared under a GNU AGPLv3 license (Please see LICENSE.txt)
 
 "BE-CRATER for VolcFlow" was formerly known as VulcaVBM (See AGU2021 Abstract)
