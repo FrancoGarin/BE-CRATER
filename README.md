@@ -16,6 +16,7 @@ Version: v1.0 (Initial release)
 This script is shared under a GNU AGPLv3 license (Please see LICENSE.txt)
 
 "BE-CRATER for VolcFlow" was formerly known as VulcaVBM (See AGU2021 Abstract)
+
 --------------------------------------------------------------------------
 
 Initially presented as VulcaVBM as part of a poster at AGU Fall Meeting 2021
@@ -69,23 +70,23 @@ that also take place as part of this script as explained below:
 
 Best fit Metrics:
 
-	Jaccard Similarity Coefficient (Jaccard Fit), Rj - It uses TP as the 
-		numerator and the union of areasinundated by observed and simulated flows for the denominator. 
-		If FN or FP increase in relation to TP, then the Jaccard fit decreases (Charbonnier et. al 2018).
-		= |Aobs∩Asim|/|Aobs∪Asim|*100 = (TP/TP+FN+FP)*100
+Jaccard Similarity Coefficient (Jaccard Fit), Rj - It uses TP as the 
+	numerator and the union of areasinundated by observed and simulated flows for the denominator. 
+	If FN or FP increase in relation to TP, then the Jaccard fit decreases (Charbonnier et. al 2018).
+	= |Aobs∩Asim|/|Aobs∪Asim|*100 = (TP/TP+FN+FP)*100
 
-	Model Sensitivity, Rms - It outputs the percentage of area of observed flow that the simulation correctly predicts, 
-		with no penalty for FP (Charbonnier et. al 2018).
-		= |Aobs∩Asim|/|Asim|*100 = (TP/TP+FP)*100
+Model Sensitivity, Rms - It outputs the percentage of area of observed flow that the simulation correctly predicts, 
+	with no penalty for FP (Charbonnier et. al 2018).
+	= |Aobs∩Asim|/|Asim|*100 = (TP/TP+FP)*100
 
--	Model Precision, Rmp - A simulation with high R might indicate either a good match between the simulated andobserved areas (high TP) 
-		or that areas thought to be safe from inundation based on the simulation are inundated by theobserved deposits (high FN) 
-		(Charbonnier et. al 2018).
-		= |Aobs∩Asim|/|Aobs|*100 = (TP/TP+FN)*100
+Model Precision, Rmp - A simulation with high R might indicate either a good match between the simulated andobserved areas (high TP) 
+	or that areas thought to be safe from inundation based on the simulation are inundated by theobserved deposits (high FN) 
+	(Charbonnier et. al 2018).
+	= |Aobs∩Asim|/|Aobs|*100 = (TP/TP+FN)*100
 
-	Percent Length Ratio, Rl - compares maximum observed and simulated flow runout. 
-		Where L is thesimulated flow length and LOBS is the observed flow length (Spataro et al. 2004; Charbonnier et. al 2018)
-		= Lsim/Lobs*100
+Percent Length Ratio, Rl - compares maximum observed and simulated flow runout. 
+	Where L is thesimulated flow length and LOBS is the observed flow length (Spataro et al. 2004; Charbonnier et. al 2018)
+	= Lsim/Lobs*100
 
 Where:
 	Aobs = Total area inundated observed
