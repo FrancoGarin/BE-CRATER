@@ -1,6 +1,6 @@
 *README*
 
-BEnchmark and Calibration via RAndomization of ParameTERs (BE-CRATER) for VolcFlow
+BEnchmark and Calibration via RAndomization of parameTERs (BE-CRATER) for VolcFlow
 
 By: Franco Garin, Sylvain J. Charbonnier, and Valentin Gueugneau
 
