@@ -8,6 +8,7 @@ Volcanology Research Group, School of Geosciences
 University of South Florida
 
 Email: francoalainv@usf.edu
+
 ResearchGate: https://www.researchgate.net/profile/Franco-Garin
 
 Originally created: May 20th, 2020
