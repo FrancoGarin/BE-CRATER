@@ -6,6 +6,7 @@ By: Franco Garin, Sylvain J. Charbonnier, and Valentin Gueugneau
 
 Volcanology Research Group, School of Geosciences
 University of South Florida
+
 Email: francoalainv@usf.edu
 ResearchGate: https://www.researchgate.net/profile/Franco-Garin
 
